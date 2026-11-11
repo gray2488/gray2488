@@ -11,7 +11,7 @@ I run **Group of AI (GoA)**, a small engineering collective with a simple rule: 
 | Repository | What it does |
 |---|---|
 | [scrapeverse](https://github.com/gray2488/scrapeverse) | Price extraction that cross-validates JSON-LD against visible page content to detect schema poisoning, then self-heals broken selectors. 12 modules, 14 tests, offline demo with no API keys. |
-| Beta Card | Text-to-image card generator — design engine, SDXL rendering on dual GPUs, compositor, Flask service. In preparation. |
+| [betacard](https://github.com/gray2488/betacard) | A greeting-card pipeline that designs twelve cards per session, renders backgrounds on SDXL, and composes text afterwards so the model never draws a letter. Deterministic planner, WCAG-checked contrast, 7,152 lines across five milestones. |
 
 ---
 
